@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1534654711 source:c:\users\facury\documents\lp1\questão5\main.cpp
+	<iostream>
+	"Relogio.h"
+
+1534654598 c:\users\facury\documents\lp1\questão5\include\relogio.h
+	<iostream>
+
+1534654545 source:c:\users\facury\documents\lp1\questão5\src\relogio.cpp
+	"Relogio.h"
+	<iostream>
+
