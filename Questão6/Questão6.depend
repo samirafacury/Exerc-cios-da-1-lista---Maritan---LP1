@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1534704618 source:c:\users\facury\documents\lp1\questão6\questão6\src\televisao.cpp
+	"Televisao.h"
+
+1534704618 c:\users\facury\documents\lp1\questão6\questão6\include\televisao.h
+	<string>
+
+1534705105 source:c:\users\facury\documents\lp1\questão6\questão6\main.cpp
+	<iostream>
+	"Televisao.h"
+	<string>
+
